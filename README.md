@@ -16,7 +16,7 @@
 <h2>🚀 Level Up Your AI Skills with PyResearch!</h2>
 
 <p>
-In this project, you'll learn how to build a <b>real-time retail heatmap tracking system</b> using YOLO26 and a Flask dashboard.
+In this project, you'll learn how to build a <b>real-time Real Time Human Behavior Analysis </b> using Ultralytics Platform.
 </p>
 
 ---
