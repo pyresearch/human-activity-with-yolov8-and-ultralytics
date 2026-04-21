@@ -24,10 +24,10 @@ In this project, you'll learn how to build a <b>real-time retail heatmap trackin
 <h2>🔧 What You'll Learn</h2>
 
 <ul>
-  <li>Custom object detection with YOLO26</li>
-  <li>Heatmap generation in real time</li>
-  <li>Flask dashboard integration</li>
-  <li>Retail analytics using AI</li>
+  <li>Custom object detection with ultralytics</li>
+  <li>Train, Deploy, and Scale Ultralytics YOLO Models</li>
+  <li>model test local  integration</li>
+  <li> Human Behavior Analysis  using Ultralytics</li>
 </ul>
 
 ---
