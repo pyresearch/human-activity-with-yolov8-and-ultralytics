@@ -1,7 +1,13 @@
-<h1 align="center">Real Time Human Behavior Analysis using  Ultralytics Platform</h1>
+<h1 align="center">Real Time Human Behavior Analysis using Ultralytics Platform</h1>
 
 <p align="center">
-  In this video, you’ll learn how to build Real Time Human Behavior Analysis using  Ultralytics Platform.
+  🔗 <a href="https://platform.ultralytics.com/?utm_source=youtube&utm_medium=social&utm_campaign=platform_launch&utm_content=description_link&utm_term=pyresearch" target="_blank">
+    Access Ultralytics Platform
+  </a>
+</p>
+
+<p align="center">
+  In this video, you’ll learn how to build Real Time Human Behavior Analysis using Ultralytics Platform.
 </p>
 
 <p align="center">
@@ -16,7 +22,7 @@
 <h2>🚀 Level Up Your AI Skills with PyResearch!</h2>
 
 <p>
-In this project, you'll learn how to build a <b>real-time Real Time Human Behavior Analysis </b> using Ultralytics Platform.
+In this project, you'll learn how to build a <b>real-time Real Time Human Behavior Analysis</b> using Ultralytics Platform.
 </p>
 
 ---
@@ -26,8 +32,8 @@ In this project, you'll learn how to build a <b>real-time Real Time Human Behavi
 <ul>
   <li>Custom object detection with ultralytics</li>
   <li>Train, Deploy, and Scale Ultralytics YOLO Models</li>
-  <li>model test local  integration</li>
-  <li> Human Behavior Analysis  using Ultralytics</li>
+  <li>Model test local integration</li>
+  <li>Human Behavior Analysis using Ultralytics</li>
 </ul>
 
 ---
